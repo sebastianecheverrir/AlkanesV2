@@ -1,0 +1,291 @@
+\begin{thebibliography}{10}
+
+\bibitem{Spikes2014}
+H.~Spikes and Z.~Jie, ``{History, origins and prediction of elastohydrodynamic
+  friction},'' {\em Tribology Letters}, vol.~56, no.~1, pp.~1--25, 2014.
+
+\bibitem{Ewen2018}
+J.~P. Ewen, D.~M. Heyes, and D.~Dini, ``{Advances in nonequilibrium molecular
+  dynamics simulations of lubricants and additives},'' {\em Friction},
+  pp.~10.1007/s40544--018--0207--9, feb 2018.
+
+\bibitem{Granick1991}
+S.~Granick, ``{Motions and Relaxations of Confined Liquids},'' {\em Science},
+  vol.~253, pp.~1374--1379, sep 1991.
+
+\bibitem{Thompson1992}
+P.~A. Thompson, G.~S. Grest, and M.~O. Robbins, ``{Phase transitions and
+  universal dynamics in confined films},'' {\em Physical Review Letters},
+  vol.~68, pp.~3448--3451, jun 1992.
+
+\bibitem{Thompson1990}
+P.~A. Thompson and M.~O. Robbins, ``{Shear flow near solids: Epitaxial order
+  and flow boundary conditions},'' {\em Physical Review A}, vol.~41,
+  pp.~6830--6837, jun 1990.
+
+\bibitem{Koike1998}
+A.~Koike and M.~Yoneya, ``{Chain Length Effects on Frictional Behavior of
+  Confined Ultrathin Films of Linear Alkanes under Shear},'' {\em The Journal
+  of Physical Chemistry B}, vol.~102, pp.~3669--3675, may 1998.
+
+\bibitem{Sivebaek2008}
+I.~M. Sivebaek, V.~N. Samoilov, and B.~N.~J. Persson, ``{Frictional properties
+  of confined polymers},'' {\em The European Physical Journal E}, vol.~27,
+  pp.~37--46, sep 2008.
+
+\bibitem{Sivebaek2010}
+I.~M. Sivebaek, V.~N. Samoilov, and B.~N.~J. Persson, ``{Velocity Dependence of
+  Friction of Confined Hydrocarbons},'' {\em Langmuir}, vol.~26,
+  pp.~8721--8728, jun 2010.
+
+\bibitem{Sivebaek2012}
+I.~M. Sivebaek, V.~N. Samoilov, and B.~N.~J. Persson, ``{Effective Viscosity of
+  Confined Hydrocarbons},'' {\em Physical Review Letters}, vol.~108, p.~036102,
+  jan 2012.
+
+\bibitem{Savio2012}
+D.~Savio, N.~Fillot, P.~Vergne, and M.~Zaccheddu, ``{A Model for Wall Slip
+  Prediction of Confined n-Alkanes: Effect of Wall-Fluid Interaction Versus
+  Fluid Resistance},'' {\em Tribology Letters}, vol.~46, pp.~11--22, apr 2012.
+
+\bibitem{Robbins1996}
+M.~O. Robbins and E.~D. Smith, ``{Connecting Molecular-Scale and Macroscopic
+  Tribology †},'' {\em Langmuir}, vol.~12, pp.~4543--4547, jan 1996.
+
+\bibitem{VanAlsten1988}
+J.~{Van Alsten} and S.~Granick, ``{Molecular Tribometry of Ultrathin Liquid
+  Films},'' {\em Physical Review Letters}, vol.~61, pp.~2570--2573, nov 1988.
+
+\bibitem{Heyes2012}
+D.~M. Heyes, E.~R. Smith, D.~Dini, H.~A. Spikes, and T.~A. Zaki, ``{Pressure
+  dependence of confined liquid behavior subjected to boundary-driven shear},''
+  {\em The Journal of Chemical Physics}, vol.~136, p.~134705, apr 2012.
+
+\bibitem{Gattinoni2013}
+C.~Gattinoni, D.~M. Heyes, C.~D. Lorenz, and D.~Dini, ``{Traction and
+  nonequilibrium phase behavior of confined sheared liquids at high
+  pressure},'' {\em Physical Review E}, vol.~88, p.~052406, nov 2013.
+
+\bibitem{Mackowiak2016}
+S.~Ma{\'{c}}kowiak, D.~M. Heyes, D.~Dini, and A.~C. Bra{\'{n}}ka,
+  ``{Non-equilibrium phase behavior and friction of confined molecular films
+  under shear: A non-equilibrium molecular dynamics study},'' {\em The Journal
+  of Chemical Physics}, vol.~145, p.~164704, oct 2016.
+
+\bibitem{Ewen2017a}
+J.~P. Ewen, C.~Gattinoni, J.~Zhang, D.~M. Heyes, H.~A. Spikes, and D.~Dini,
+  ``{On the effect of confined fluid molecular structure on nonequilibrium
+  phase behaviour and friction},'' {\em Physical Chemistry Chemical Physics},
+  vol.~19, no.~27, pp.~17883--17894, 2017.
+
+\bibitem{Plimpton1995}
+S.~Plimpton, ``{Fast Parallel Algorithms for Short-Range Molecular Dynamics},''
+  {\em Journal of Computational Physics}, vol.~117, pp.~1--19, mar 1995.
+
+\bibitem{Ewen2017b}
+J.~P. Ewen and S.~{Echeverri Restrepo}, ``{LAMMPS{\_}bulider
+  doi.org/10.5281/zenodo.1043868},'' 2017.
+
+\bibitem{Ewen2017}
+J.~P. Ewen, S.~{Echeverri Restrepo}, N.~Morgan, and D.~Dini, ``{Nonequilibrium
+  molecular dynamics simulations of stearic acid adsorbed on iron surfaces with
+  nanoscale roughness},'' {\em Tribology International}, vol.~107,
+  pp.~264--273, mar 2017.
+
+\bibitem{Jewett2013}
+A.~I. Jewett, Z.~Zhuang, and J.-E. Shea, ``{Moltemplate a Coarse-Grained Model
+  Assembly Tool},'' {\em Biophysical Journal}, vol.~104, p.~169a, jan 2013.
+
+\bibitem{HjorthLarsen2017}
+A.~{Hjorth Larsen}, J.~{J{\o}rgen Mortensen}, J.~Blomqvist, I.~E. Castelli,
+  R.~Christensen, M.~Du{\l}ak, J.~Friis, M.~N. Groves, B.~Hammer, C.~Hargus,
+  E.~D. Hermes, P.~C. Jennings, P.~{Bjerre Jensen}, J.~Kermode, J.~R. Kitchin,
+  E.~{Leonhard Kolsbjerg}, J.~Kubal, K.~Kaasbjerg, S.~Lysgaard, J.~{Bergmann
+  Maronsson}, T.~Maxson, T.~Olsen, L.~Pastewka, A.~Peterson, C.~Rostgaard,
+  J.~Schi{\o}tz, O.~Sch{\"{u}}tt, M.~Strange, K.~S. Thygesen, T.~Vegge,
+  L.~Vilhelmsen, M.~Walter, Z.~Zeng, and K.~W. Jacobsen, ``{The atomic
+  simulation environment—a Python library for working with atoms},'' {\em
+  Journal of Physics: Condensed Matter}, vol.~29, p.~273002, jul 2017.
+
+\bibitem{Gee1990}
+M.~L. Gee, P.~M. McGuiggan, J.~N. Israelachvili, and A.~M. Homola, ``{Liquid to
+  solidlike transitions of molecularly thin films under shear},'' {\em The
+  Journal of Chemical Physics}, vol.~93, pp.~1895--1906, aug 1990.
+
+\bibitem{Liang2018}
+Z.~Liang, L.~Chen, M.~S. Alam, S.~{Zeraati Rezaei}, C.~Stark, H.~Xu, and R.~M.
+  Harrison, ``{Comprehensive chemical characterization of lubricating oils used
+  in modern vehicular engines utilizing GC × GC-TOFMS},'' {\em Fuel},
+  vol.~220, pp.~792--799, may 2018.
+
+\bibitem{Jorgensen1996}
+W.~L. Jorgensen, D.~S. Maxwell, and J.~Tirado-Rives, ``{Development and Testing
+  of the OPLS All-Atom Force Field on Conformational Energetics and Properties
+  of Organic Liquids},'' {\em Journal of the American Chemical Society},
+  vol.~118, pp.~11225--11236, jan 1996.
+
+\bibitem{Siu2012}
+S.~W.~I. Siu, K.~Pluhackova, and R.~A. B{\"{o}}ckmann, ``{Optimization of the
+  OPLS-AA Force Field for Long Hydrocarbons},'' {\em Journal of Chemical Theory
+  and Computation}, vol.~8, pp.~1459--1470, apr 2012.
+
+\bibitem{Ewen2016a}
+J.~P. Ewen, C.~Gattinoni, F.~M. Thakkar, N.~Morgan, H.~A. Spikes, and D.~Dini,
+  ``{A comparison of classical force-fields for molecular dynamics simulations
+  of lubricants},'' {\em Materials}, vol.~9, p.~651, aug 2016.
+
+\bibitem{Docherty2010}
+H.~Docherty and P.~T. Cummings, ``{Direct evidence for fluid–solid transition
+  of nanoconfined fluids},'' {\em Soft Matter}, vol.~6, no.~8, p.~1640, 2010.
+
+\bibitem{Ryckaert1977}
+J.-P. Ryckaert, G.~Ciccotti, and H.~J. Berendsen, ``{Numerical integration of
+  the cartesian equations of motion of a system with constraints: molecular
+  dynamics of n-alkanes},'' {\em Journal of Computational Physics}, vol.~23,
+  pp.~327--341, mar 1977.
+
+\bibitem{Yeh1999}
+I.-C. Yeh and M.~L. Berkowitz, ``{Ewald summation for systems with slab
+  geometry},'' {\em The Journal of Chemical Physics}, vol.~111, pp.~3155--3162,
+  aug 1999.
+
+\bibitem{Oh1998}
+S.~J. Oh, D.~Cook, and H.~Townsend, ``{Characterization of Iron Oxides Commonly
+  Formed as Corrosion Products on Steel},'' {\em Hyperfine Interactions},
+  vol.~112, no.~1/4, pp.~59--66, 1998.
+
+\bibitem{Maslen1994}
+E.~N. Maslen, V.~A. Streltsov, N.~R. Streltsova, and N.~Ishizawa,
+  ``{Synchrotron X-ray study of the electron density in $\alpha$-Fe 2 O 3},''
+  {\em Acta Crystallographica Section B Structural Science}, vol.~50,
+  pp.~435--441, aug 1994.
+
+\bibitem{Berro2010}
+H.~Berro, N.~Fillot, and P.~Vergne, ``{Molecular dynamics simulation of surface
+  energy and ZDDP effects on friction in nano-scale lubricated contacts},''
+  {\em Tribology International}, vol.~43, pp.~1811--1822, oct 2010.
+
+\bibitem{Schneider1978}
+T.~Schneider and E.~Stoll, ``{Molecular-dynamics study of a three-dimensional
+  one-component model for distortive phase transitions},'' {\em Physical Review
+  B}, vol.~17, pp.~1302--1322, feb 1978.
+
+\bibitem{Brown1994}
+D.~Brown, J.~H.~R. Clarke, M.~Okuda, and T.~Yamazaki, ``{A molecular dynamics
+  study of chain configurations in n ‐alkane‐like liquids},'' {\em The
+  Journal of Chemical Physics}, vol.~100, pp.~1684--1692, jan 1994.
+
+\bibitem{Auhl2003}
+R.~Auhl, R.~Everaers, G.~S. Grest, K.~Kremer, and S.~J. Plimpton,
+  ``{Equilibration of long chain polymer melts in computer simulations},'' {\em
+  The Journal of Chemical Physics}, vol.~119, pp.~12718--12728, dec 2003.
+
+\bibitem{Liem1992}
+S.~Y. Liem, D.~Brown, and J.~H.~R. Clarke, ``{Investigation of the
+  homogeneous-shear nonequilibrium-molecular-dynamics method},'' {\em Physical
+  Review A}, vol.~45, pp.~3706--3713, mar 1992.
+
+\bibitem{Bernardi2010}
+S.~Bernardi, B.~D. Todd, and D.~J. Searles, ``{Thermostating highly confined
+  fluids},'' {\em The Journal of Chemical Physics}, vol.~132, p.~244706, jun
+  2010.
+
+\bibitem{Yong2013}
+X.~Yong and L.~T. Zhang, ``{Thermostats and thermostat strategies for molecular
+  dynamics simulations of nanofluidics},'' {\em The Journal of Chemical
+  Physics}, vol.~138, p.~084503, feb 2013.
+
+\bibitem{Griesbaum2000}
+K.~Griesbaum, A.~Behr, D.~Biedenkapp, H.-W. Voges, D.~Garbe, C.~Paetz,
+  G.~Collin, D.~Mayer, and H.~H{\"{o}}ke, ``{Hydrocarbons},'' in {\em Ullmann's
+  Encyclopedia of Industrial Chemistry}, Weinheim, Germany: Wiley-VCH Verlag
+  GmbH {\&} Co. KGaA, jun 2000.
+
+\bibitem{Taylor2017}
+R.~I. Taylor, B.~R. {De Kraker}, A.~Morina, A.~Neville, and T.~Liskiewicz,
+  ``{Shear rates in engines and implications for lubricant design},'' {\em
+  Proceedings of the Institution of Mechanical Engineers, Part J: Journal of
+  Engineering Tribology}, vol.~231, no.~9, pp.~1106--1116, 2017.
+
+\bibitem{Erman1985}
+B.~Erman and L.~Monnerie, ``{Theory of segmental orientation in amorphous
+  polymer networks},'' {\em Macromolecules}, vol.~18, pp.~1985--1991, oct 1985.
+
+\bibitem{Drummond2000}
+C.~Drummond and J.~Israelachvili, ``{Dynamic behavior of confined branched
+  hydrocarbon lubricant fluids under shear},'' {\em Macromolecules}, vol.~33,
+  no.~13, pp.~4910--4920, 2000.
+
+\bibitem{Cho2017}
+S.~Cho, S.~Jeong, J.~M. Kim, and C.~Baig, ``{Molecular dynamics for linear
+  polymer melts in bulk and confined systems under shear flow},'' {\em
+  Scientific Reports}, no.~July, pp.~1--9, 2017.
+
+\bibitem{Jeong2017}
+S.~Jeong, J.~M. Kim, and C.~Baig, ``{Effect of Chain Orientation and Stretch on
+  the Stress Overshoot of Entangled Polymeric Materials under Start-Up
+  Shear},'' {\em Macromolecules}, vol.~50, no.~8, pp.~3424--3429, 2017.
+
+\bibitem{Cui1996}
+S.~T. Cui, S.~a. Gupta, P.~T. Cummings, and H.~D. Cochran, ``{Molecular
+  dynamics simulations of the rheology of normal decane, hexadecane, and
+  tetracosane},'' {\em Journal Of Chemical Physics}, vol.~105, no.~3,
+  pp.~1214--1220, 1996.
+
+\bibitem{Padilla1992}
+P.~Padilla and S.~Toxvaerd, ``{Fluid n ‐decane undergoing planar Couette
+  flow},'' {\em The Journal of Chemical Physics}, vol.~97, pp.~7687--7694, nov
+  1992.
+
+\bibitem{Drummond2002}
+C.~Drummond, N.~Alcantar, and J.~Israelachvili, ``{Shear alignment of confined
+  hydrocarbon liquid films},'' {\em Physical Review E - Statistical Physics,
+  Plasmas, Fluids, and Related Interdisciplinary Topics}, vol.~66, no.~1,
+  pp.~1--6, 2002.
+
+\bibitem{Kavitha2007}
+G.~Kavitha and C.~Narayana, ``{Raman Spectroscopic Investigations of
+  Pressure-Induced Phase Transitions in n -Hexane},'' {\em The Journal of
+  Physical Chemistry B}, vol.~111, pp.~14130--14135, dec 2007.
+
+\bibitem{Galmiche2016}
+B.~Galmiche, A.~Ponjavic, and J.~S.~S. Wong, ``{Flow measurements of a
+  polyphenyl ether oil in an elastohydrodynamic contact},'' {\em Journal of
+  Physics: Condensed Matter}, vol.~28, p.~134005, apr 2016.
+
+\bibitem{Ponjavic2014a}
+A.~Ponjavic, L.~di~Mare, and J.~S.~S. Wong, ``{Effect of pressure on the flow
+  behavior of polybutene},'' {\em Journal of Polymer Science Part B: Polymer
+  Physics}, vol.~52, pp.~708--715, may 2014.
+
+\bibitem{Ta2017}
+T.~D. Ta, A.~K. Tieu, H.~Zhu, B.~Kosasih, Q.~Zhu, and H.~T. Phan, ``{The
+  structural, tribological, and rheological dependency of thin hexadecane film
+  confined between iron and iron oxide surfaces under sliding conditions},''
+  {\em Tribology International}, vol.~113, no.~December 2016, pp.~26--35, 2017.
+
+\bibitem{Ponjavic2014}
+A.~Ponjavic and J.~S.~S. Wong, ``{The effect of boundary slip on
+  elastohydrodynamic lubrication},'' {\em RSC Adv.}, vol.~4, no.~40,
+  pp.~20821--20829, 2014.
+
+\bibitem{Zhang2017}
+J.~Zhang, A.~Tan, and H.~Spikes, ``{Effect of Base Oil Structure on
+  Elastohydrodynamic Friction},'' {\em Tribology Letters}, vol.~65, p.~13, mar
+  2017.
+
+\bibitem{Martinie2016a}
+L.~Martinie and P.~Vergne, ``{Lubrication at Extreme Conditions: A Discussion
+  About the Limiting Shear Stress Concept},'' {\em Tribology Letters}, vol.~63,
+  p.~21, aug 2016.
+
+\bibitem{Archard1959}
+J.~Archard, ``{The temperature of rubbing surfaces},'' {\em Wear}, vol.~2,
+  pp.~438--455, oct 1959.
+
+\bibitem{Stukowski2010b}
+A.~Stukowski, ``{Visualization and analysis of atomistic simulation data with
+  OVITO–the Open Visualization Tool},'' {\em Modelling and Simulation in
+  Materials Science and Engineering}, vol.~18, p.~015012, jan 2010.
+
+\end{thebibliography}
