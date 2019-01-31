@@ -7,7 +7,7 @@ set ytics 0.1,0.1,0.7
 set key noautotitle
 set format x  '$10^{%L}$'
 set logscale x
-p [:2e10][0.15:0.65] 'DataDump/Shear/Compiled.plot8' i 0 u ($3/($12*1e-10)):($6/($1-1)**2):($7/($1-1)**2)  title "$\\SI{0.5}{\\giga\\pascal}$" lt 1 lc 0 ps 2,\
+p [:2e10][0.25:0.65] 'DataDump/Shear/Compiled.plot8' i 0 u ($3/($12*1e-10)):($6/($1-1)**2):($7/($1-1)**2)  title "$\\SI{0.5}{\\giga\\pascal}$" lt 1 lc 0 ps 2,\
 'DataDump/Shear/Compiled.plot8' i 1 u ($3/($12*1e-10)):($6/($1-1)**2):($7/($1-1)**2)  title  "$\\SI{1.0}{\\giga\\pascal}$" lt 2 lc 0 ps 2,\
 'DataDump/Shear/Compiled.plot8' i 1 u ($3/($12*1e-10)):($6/($1-1)**2) w l notitle lt 2 lc 1  lw 2 ,\
 'DataDump/Shear/Compiled.plot8' i 2 u ($3/($12*1e-10)):($6/($1-1)**2):($7/($1-1)**2)  title  "$\\SI{1.5}{\\giga\\pascal}$" lt 3 lc 0 ps 2,\

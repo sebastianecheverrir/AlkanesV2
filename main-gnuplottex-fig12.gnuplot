@@ -7,7 +7,7 @@ set ylabel "$T \\, [\\SI{}{\\kelvin}]$"
 set format x  '$10^{%L}$'
 set key noautotitle
 set log x
-set yrange [320:390]
+set yrange [310:390]
           set ytics 300,20,400
 p [:2e10][] 'DataDump/Shear/Compiled.plot8' i 0 u ($3/($12*1e-10)):($10) w p title "$\\SI{0.5}{\\giga\\pascal}$" lt 1 lc 0 ps 2,\
 'DataDump/Shear/Compiled.plot8' i 1 u ($3/($12*1e-10)):($10) w p title  "$\\SI{1.0}{\\giga\\pascal}$" lt 2 lc 0 ps 2,\

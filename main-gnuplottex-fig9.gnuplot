@@ -5,7 +5,7 @@ set xlabel "$F_N \\, [\\SI{}{\\mega\\pascal}]$"
 set ylabel "$F_L \\, [\\SI{}{\\mega\\pascal}]$"
 set ytics 0,20,120
 set key noautotitle
-            p [400:1600][] 'DataDump/Shear/Compiled_p.plot8' i 0 u ($2*1000):($4/10) w p title "$\\SI{10}{\\meter\\per\\second}$" lt 1 lc 0 ps 2,\
+            p [400:1600][0:] 'DataDump/Shear/Compiled_p.plot8' i 0 u ($2*1000):($4/10) w p title "$\\SI{10}{\\meter\\per\\second}$" lt 1 lc 0 ps 2,\
                 'DataDump/Shear/Compiled_p.plot8' i 1 u ($2*1000):($4/10) w p title "$\\SI{20}{\\meter\\per\\second}$" lt 2 lc 0 ps 2,\
      'DataDump/Shear/Compiled_p.plot8' i 1 u ($2*1000):($4/10) w l notitle  lt 1 lc 1 lw 2 ,\
                 'DataDump/Shear/Compiled_p.plot8' i 2 u ($2*1000):($4/10) w p title "$\\SI{50}{\\meter\\per\\second}$" lt 3 lc 0 ps 2,\

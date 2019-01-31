@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=pdflatex 2018.2.20)  28 AUG 2018 17:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=pdflatex 2018.2.20)  31 JAN 2019 09:51
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -478,9 +478,9 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 ))
 \verbatim@out=\write4
-runsystem(touch w18-test-20188281035.tex)...executed.
+runsystem(touch w18-test-2019131591.tex)...executed.
 
-runsystem(rm -f w18-test-20188281035.tex)...executed.
+runsystem(rm -f w18-test-2019131591.tex)...executed.
 
 runsystem(rm -f "main.gnuploterrors")...executed.
 
@@ -1347,12 +1347,6 @@ your preamble.
 
 
 ]
-Overfull \hbox (32.38826pt too wide) in paragraph at lines 116--117
-[]\OT1/cmr/m/n/10 Classical MD sim-u-la-tions were per-formed us-ing LAMMPS [[]
-].
- []
-
-
 Overfull \hbox (3.02827pt too wide) in paragraph at lines 120--121
 \OT1/cmr/m/n/10 ten-tials for liq-uid sim-u-la-tions, all-atom force field (L-O
 PLS-
@@ -1376,6 +1370,11 @@ Overfull \hbox (4.7418pt too wide) in paragraph at lines 141--141
  []
 
 
+Overfull \hbox (12.90321pt too wide) in paragraph at lines 206--207
+\OT1/cmr/m/n/10 coun-tered in real en-gi-neer-ing com-po-nents $[]$ [[]],
+ []
+
+
 Overfull \hbox (6.86153pt too wide) in paragraph at lines 208--209
 []\OT1/cmr/m/n/10 To ver-ify that a nonequi-lib-rium steady state was reached,
  []
@@ -1392,34 +1391,39 @@ runsystem(gnuplot main-gnuplottex-fig1.gnuplot 2>>main.gnuploterrors)...execute
 d.
 
 Package gnuplottex Info: main-gnuplottex-fig1.gnuplot converted on input line 2
-54.
+60.
  (./main-gnuplottex-fig1.tex
 \gptboxheight=\skip64
 \gptboxwidth=\skip65
 \gptboxtext=\box95
 Package epstopdf Info: Source file: <main-gnuplottex-fig1.eps>
-(epstopdf)                    date: 2018-08-28 17:15:37
-(epstopdf)                    size: 96606 bytes
+(epstopdf)                    date: 2019-01-31 09:51:52
+(epstopdf)                    size: 197254 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig1-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:12:26
-(epstopdf)                    size: 44790 bytes
+(epstopdf)                    date: 2019-01-31 09:51:13
+(epstopdf)                    size: 91409 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig1-eps-co
 nverted-to.pdf main-gnuplottex-fig1.eps>
-(epstopdf)             \includegraphics on input line 150.
+(epstopdf)             \includegraphics on input line 153.
 runsystem(epstopdf --outfile=main-gnuplottex-fig1-eps-converted-to.pdf main-gnu
 plottex-fig1.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig1-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:15:38
-(epstopdf)                    size: 44790 bytes.
+(epstopdf)                    date: 2019-01-31 09:51:52
+(epstopdf)                    size: 91409 bytes.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig1-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
 <main-gnuplottex-fig1-eps-converted-to.pdf, id=205, 250.9375pt x 257.96375pt>
 File: main-gnuplottex-fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig1-eps-converted-to.pdf>
 Package pdftex.def Info: main-gnuplottex-fig1-eps-converted-to.pdf used on inpu
-t line 150.
+t line 153.
 (pdftex.def)             Requested size: 250.93687pt x 257.9631pt.
 ) [3 <./DataDump/Images/5_region.png>]
 \openout4 = `main-gnuplottex-fig2.gnuplot'.
@@ -1429,33 +1433,37 @@ runsystem(gnuplot main-gnuplottex-fig2.gnuplot 2>>main.gnuploterrors)...execute
 d.
 
 Package gnuplottex Info: main-gnuplottex-fig2.gnuplot converted on input line 3
-11.
+17.
 
 (./main-gnuplottex-fig2.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig2.eps>
-(epstopdf)                    date: 2018-08-28 17:15:38
-(epstopdf)                    size: 20120 bytes
+(epstopdf)                    date: 2019-01-31 09:51:53
+(epstopdf)                    size: 20093 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig2-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:12:27
-(epstopdf)                    size: 4053 bytes
+(epstopdf)                    date: 2019-01-31 09:51:13
+(epstopdf)                    size: 4049 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig2-eps-co
 nverted-to.pdf main-gnuplottex-fig2.eps>
-(epstopdf)             \includegraphics on input line 111.
+(epstopdf)             \includegraphics on input line 110.
 runsystem(epstopdf --outfile=main-gnuplottex-fig2-eps-converted-to.pdf main-gnu
 plottex-fig2.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig2-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:15:38
-(epstopdf)                    size: 4053 bytes.
+(epstopdf)                    date: 2019-01-31 09:51:53
+(epstopdf)                    size: 4049 bytes.
 
-<main-gnuplottex-fig2-eps-converted-to.pdf, id=234, 250.9375pt x 185.69376pt>
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig2-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<main-gnuplottex-fig2-eps-converted-to.pdf, id=232, 250.9375pt x 185.69376pt>
 File: main-gnuplottex-fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig2-eps-converted-to.pdf>
 Package pdftex.def Info: main-gnuplottex-fig2-eps-converted-to.pdf used on inpu
-t line 111.
+t line 110.
 (pdftex.def)             Requested size: 250.93687pt x 185.6933pt.
 )
 \openout4 = `main-gnuplottex-fig3.gnuplot'.
@@ -1466,36 +1474,53 @@ runsystem(gnuplot main-gnuplottex-fig3.gnuplot 2>>main.gnuploterrors)...execute
 d.
 
 Package gnuplottex Info: main-gnuplottex-fig3.gnuplot converted on input line 3
-46.
+52.
  (./main-gnuplottex-fig3.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig3.eps>
-(epstopdf)                    date: 2018-08-28 17:15:39
-(epstopdf)                    size: 20203 bytes
+(epstopdf)                    date: 2019-01-31 09:51:53
+(epstopdf)                    size: 20396 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig3-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:12:27
-(epstopdf)                    size: 4080 bytes
+(epstopdf)                    date: 2019-01-31 09:51:14
+(epstopdf)                    size: 4152 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig3-eps-co
 nverted-to.pdf main-gnuplottex-fig3.eps>
-(epstopdf)             \includegraphics on input line 113.
+(epstopdf)             \includegraphics on input line 118.
 runsystem(epstopdf --outfile=main-gnuplottex-fig3-eps-converted-to.pdf main-gnu
 plottex-fig3.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig3-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:15:39
-(epstopdf)                    size: 4080 bytes.
-<main-gnuplottex-fig3-eps-converted-to.pdf, id=235, 250.9375pt x 185.69376pt>
+(epstopdf)                    date: 2019-01-31 09:51:54
+(epstopdf)                    size: 4152 bytes.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig3-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<main-gnuplottex-fig3-eps-converted-to.pdf, id=233, 250.9375pt x 185.69376pt>
 File: main-gnuplottex-fig3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig3-eps-converted-to.pdf>
 Package pdftex.def Info: main-gnuplottex-fig3-eps-converted-to.pdf used on inpu
-t line 113.
+t line 118.
 (pdftex.def)             Requested size: 250.93687pt x 185.6933pt.
 )
-Overfull \hbox (23.13025pt too wide) in paragraph at lines 352--353
+Overfull \hbox (23.13025pt too wide) in paragraph at lines 358--359
 []\OT1/cmr/m/n/10 For the chain lengths and pres-sures stud-ied, $[] \OML/cmm/m
 /it/10 = [][]$
+ []
+
+
+Overfull \hbox (6.1105pt too wide) in paragraph at lines 361--362
+\OT1/cmr/m/n/10 bulk NEMD sim-u-la-tions of n-alkanes at high shear rates [[]],
+
+ []
+
+
+Overfull \hbox (0.55598pt too wide) in paragraph at lines 361--362
+\OT1/cmr/m/n/10 This dis-crep-ancy can be ra-tio-nalised through the high pres-
+
  []
 
 [4 <./main-gnuplottex-fig1-eps-converted-to.pdf>]
@@ -1507,15 +1532,15 @@ runsystem(gnuplot main-gnuplottex-fig4.gnuplot 2>>main.gnuploterrors)...execute
 d.
 
 Package gnuplottex Info: main-gnuplottex-fig4.gnuplot converted on input line 4
-21.
+29.
  (./main-gnuplottex-fig4.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig4.eps>
-(epstopdf)                    date: 2018-08-28 17:15:39
+(epstopdf)                    date: 2019-01-31 09:51:54
 (epstopdf)                    size: 43194 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig4-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:12:28
-(epstopdf)                    size: 13468 bytes
+(epstopdf)                    date: 2019-01-31 09:51:14
+(epstopdf)                    size: 13585 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig4-eps-co
 nverted-to.pdf main-gnuplottex-fig4.eps>
 (epstopdf)             \includegraphics on input line 154.
@@ -1524,9 +1549,14 @@ plottex-fig4.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig4-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:15:39
-(epstopdf)                    size: 13468 bytes.
-<main-gnuplottex-fig4-eps-converted-to.pdf, id=274, 250.9375pt x 286.06876pt>
+(epstopdf)                    date: 2019-01-31 09:51:54
+(epstopdf)                    size: 13585 bytes.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig4-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<main-gnuplottex-fig4-eps-converted-to.pdf, id=272, 250.9375pt x 286.06876pt>
 File: main-gnuplottex-fig4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig4-eps-converted-to.pdf>
@@ -1534,18 +1564,18 @@ Package pdftex.def Info: main-gnuplottex-fig4-eps-converted-to.pdf used on inpu
 t line 154.
 (pdftex.def)             Requested size: 250.93687pt x 286.06805pt.
 )
-<DataDump/Images/RDF_Peaks.png, id=275, 772.14789pt x 139.15819pt>
+<DataDump/Images/RDF_Peaks.png, id=273, 772.14789pt x 139.15819pt>
 File: DataDump/Images/RDF_Peaks.png Graphic file (type png)
 
 <use DataDump/Images/RDF_Peaks.png>
-Package pdftex.def Info: DataDump/Images/RDF_Peaks.png used on input line 433.
+Package pdftex.def Info: DataDump/Images/RDF_Peaks.png used on input line 441.
 (pdftex.def)             Requested size: 201.60077pt x 36.33315pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
  [5 <./main-gnuplottex-fig2-eps-converted-to.pdf> <./main-gnuplottex-fig3-eps-c
 onverted-to.pdf>]
-Overfull \hbox (1.17542pt too wide) in paragraph at lines 464--469
+Overfull \hbox (1.17542pt too wide) in paragraph at lines 472--477
 \OT1/cmr/m/n/10 sure (Fig-ure []7[]a), the flow for $\OML/cmm/m/it/10 C[]$ \OT1
 /cmr/m/n/10 (pur-ple) re-mains Couette-
  []
@@ -1557,15 +1587,15 @@ runsystem(gnuplot main-gnuplottex-fig5.gnuplot 2>>main.gnuploterrors)...execute
 d.
 
 Package gnuplottex Info: main-gnuplottex-fig5.gnuplot converted on input line 5
-08.
+16.
  (./main-gnuplottex-fig5.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig5.eps>
-(epstopdf)                    date: 2018-08-28 17:15:40
-(epstopdf)                    size: 21958 bytes
+(epstopdf)                    date: 2019-01-31 09:51:54
+(epstopdf)                    size: 21961 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig5-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:12:29
-(epstopdf)                    size: 4759 bytes
+(epstopdf)                    date: 2019-01-31 09:51:15
+(epstopdf)                    size: 4878 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig5-eps-co
 nverted-to.pdf main-gnuplottex-fig5.eps>
 (epstopdf)             \includegraphics on input line 108.
@@ -1574,9 +1604,14 @@ plottex-fig5.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig5-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:15:40
-(epstopdf)                    size: 4759 bytes.
-<main-gnuplottex-fig5-eps-converted-to.pdf, id=321, 250.9375pt x 142.5325pt>
+(epstopdf)                    date: 2019-01-31 09:51:55
+(epstopdf)                    size: 4878 bytes.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig5-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<main-gnuplottex-fig5-eps-converted-to.pdf, id=319, 250.9375pt x 142.5325pt>
 File: main-gnuplottex-fig5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig5-eps-converted-to.pdf>
@@ -1592,15 +1627,15 @@ runsystem(gnuplot main-gnuplottex-fig6.gnuplot 2>>main.gnuploterrors)...execute
 d.
 
 Package gnuplottex Info: main-gnuplottex-fig6.gnuplot converted on input line 5
-27.
+35.
  (./main-gnuplottex-fig6.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig6.eps>
-(epstopdf)                    date: 2018-08-28 17:15:40
+(epstopdf)                    date: 2019-01-31 09:51:55
 (epstopdf)                    size: 22002 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig6-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:12:29
-(epstopdf)                    size: 4862 bytes
+(epstopdf)                    date: 2019-01-31 09:51:15
+(epstopdf)                    size: 4996 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig6-eps-co
 nverted-to.pdf main-gnuplottex-fig6.eps>
 (epstopdf)             \includegraphics on input line 108.
@@ -1609,9 +1644,14 @@ plottex-fig6.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig6-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:15:41
-(epstopdf)                    size: 4862 bytes.
-<main-gnuplottex-fig6-eps-converted-to.pdf, id=322, 250.9375pt x 142.5325pt>
+(epstopdf)                    date: 2019-01-31 09:51:55
+(epstopdf)                    size: 4996 bytes.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig6-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<main-gnuplottex-fig6-eps-converted-to.pdf, id=320, 250.9375pt x 142.5325pt>
 File: main-gnuplottex-fig6-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig6-eps-converted-to.pdf>
@@ -1627,15 +1667,15 @@ runsystem(gnuplot main-gnuplottex-fig7.gnuplot 2>>main.gnuploterrors)...execute
 d.
 
 Package gnuplottex Info: main-gnuplottex-fig7.gnuplot converted on input line 5
-47.
+55.
  (./main-gnuplottex-fig7.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig7.eps>
-(epstopdf)                    date: 2018-08-28 17:15:41
-(epstopdf)                    size: 21748 bytes
+(epstopdf)                    date: 2019-01-31 09:51:55
+(epstopdf)                    size: 21735 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig7-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:12:30
-(epstopdf)                    size: 4539 bytes
+(epstopdf)                    date: 2019-01-31 09:51:16
+(epstopdf)                    size: 4739 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig7-eps-co
 nverted-to.pdf main-gnuplottex-fig7.eps>
 (epstopdf)             \includegraphics on input line 108.
@@ -1644,9 +1684,14 @@ plottex-fig7.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig7-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:15:41
-(epstopdf)                    size: 4539 bytes.
-<main-gnuplottex-fig7-eps-converted-to.pdf, id=323, 250.9375pt x 142.5325pt>
+(epstopdf)                    date: 2019-01-31 09:51:56
+(epstopdf)                    size: 4739 bytes.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig7-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<main-gnuplottex-fig7-eps-converted-to.pdf, id=321, 250.9375pt x 142.5325pt>
 File: main-gnuplottex-fig7-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig7-eps-converted-to.pdf>
@@ -1662,15 +1707,15 @@ runsystem(gnuplot main-gnuplottex-fig8.gnuplot 2>>main.gnuploterrors)...execute
 d.
 
 Package gnuplottex Info: main-gnuplottex-fig8.gnuplot converted on input line 5
-67.
+75.
  (./main-gnuplottex-fig8.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig8.eps>
-(epstopdf)                    date: 2018-08-28 17:15:41
-(epstopdf)                    size: 22104 bytes
+(epstopdf)                    date: 2019-01-31 09:51:56
+(epstopdf)                    size: 22125 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig8-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:12:30
-(epstopdf)                    size: 4700 bytes
+(epstopdf)                    date: 2019-01-31 09:51:16
+(epstopdf)                    size: 4883 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig8-eps-co
 nverted-to.pdf main-gnuplottex-fig8.eps>
 (epstopdf)             \includegraphics on input line 112.
@@ -1679,9 +1724,14 @@ plottex-fig8.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig8-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:15:41
-(epstopdf)                    size: 4700 bytes.
-<main-gnuplottex-fig8-eps-converted-to.pdf, id=324, 250.9375pt x 142.5325pt>
+(epstopdf)                    date: 2019-01-31 09:51:56
+(epstopdf)                    size: 4878 bytes.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig8-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<main-gnuplottex-fig8-eps-converted-to.pdf, id=322, 250.9375pt x 142.5325pt>
 File: main-gnuplottex-fig8-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig8-eps-converted-to.pdf>
@@ -1700,34 +1750,38 @@ runsystem(gnuplot main-gnuplottex-fig9.gnuplot 2>>main.gnuploterrors)...execute
 d.
 
 Package gnuplottex Info: main-gnuplottex-fig9.gnuplot converted on input line 6
-13.
+21.
  (./main-gnuplottex-fig9.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig9.eps>
-(epstopdf)                    date: 2018-08-28 17:15:42
-(epstopdf)                    size: 20412 bytes
+(epstopdf)                    date: 2019-01-31 09:51:56
+(epstopdf)                    size: 20489 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig9-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:12:31
-(epstopdf)                    size: 3792 bytes
+(epstopdf)                    date: 2019-01-31 09:51:17
+(epstopdf)                    size: 3952 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig9-eps-co
 nverted-to.pdf main-gnuplottex-fig9.eps>
-(epstopdf)             \includegraphics on input line 118.
+(epstopdf)             \includegraphics on input line 120.
 runsystem(epstopdf --outfile=main-gnuplottex-fig9-eps-converted-to.pdf main-gnu
 plottex-fig9.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig9-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2018-08-28 17:15:42
-(epstopdf)                    size: 3792 bytes.
-<main-gnuplottex-fig9-eps-converted-to.pdf, id=328, 250.9375pt x 185.69376pt>
+(epstopdf)                    date: 2019-01-31 09:51:56
+(epstopdf)                    size: 3952 bytes.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig9-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<main-gnuplottex-fig9-eps-converted-to.pdf, id=326, 250.9375pt x 185.69376pt>
 File: main-gnuplottex-fig9-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig9-eps-converted-to.pdf>
 Package pdftex.def Info: main-gnuplottex-fig9-eps-converted-to.pdf used on inpu
-t line 118.
+t line 120.
 (pdftex.def)             Requested size: 250.93687pt x 185.6933pt.
-) [6 <./main-gnuplottex-fig4-eps-converted-to.pdf> <./DataDump/Images/RDF_Peaks
-.png>]
+)
 \openout4 = `main-gnuplottex-fig10.gnuplot'.
 
 
@@ -1736,16 +1790,16 @@ runsystem(gnuplot main-gnuplottex-fig10.gnuplot 2>>main.gnuploterrors)...execut
 ed.
 
 Package gnuplottex Info: main-gnuplottex-fig10.gnuplot converted on input line 
-684.
+692.
 
 (./main-gnuplottex-fig10.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig10.eps>
-(epstopdf)                    date: 2018-08-28 17:15:42
+(epstopdf)                    date: 2019-01-31 09:51:57
 (epstopdf)                    size: 20216 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig10-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:12:31
-(epstopdf)                    size: 4086 bytes
+(epstopdf)                    date: 2019-01-31 09:51:17
+(epstopdf)                    size: 4085 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig10-eps-c
 onverted-to.pdf main-gnuplottex-fig10.eps>
 (epstopdf)             \includegraphics on input line 114.
@@ -1754,10 +1808,15 @@ uplottex-fig10.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig10-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:15:43
-(epstopdf)                    size: 4086 bytes.
+(epstopdf)                    date: 2019-01-31 09:51:57
+(epstopdf)                    size: 4085 bytes.
 
-<main-gnuplottex-fig10-eps-converted-to.pdf, id=343, 250.9375pt x 185.69376pt>
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig10-eps-converted-t
+o.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+
+<main-gnuplottex-fig10-eps-converted-to.pdf, id=327, 250.9375pt x 185.69376pt>
 File: main-gnuplottex-fig10-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig10-eps-converted-to.pdf>
@@ -1773,16 +1832,16 @@ runsystem(gnuplot main-gnuplottex-fig11.gnuplot 2>>main.gnuploterrors)...execut
 ed.
 
 Package gnuplottex Info: main-gnuplottex-fig11.gnuplot converted on input line 
-754.
+762.
 
 (./main-gnuplottex-fig11.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig11.eps>
-(epstopdf)                    date: 2018-08-28 17:15:43
+(epstopdf)                    date: 2019-01-31 09:51:57
 (epstopdf)                    size: 20301 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig11-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:12:32
-(epstopdf)                    size: 4103 bytes
+(epstopdf)                    date: 2019-01-31 09:51:18
+(epstopdf)                    size: 4108 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig11-eps-c
 onverted-to.pdf main-gnuplottex-fig11.eps>
 (epstopdf)             \includegraphics on input line 116.
@@ -1791,20 +1850,26 @@ uplottex-fig11.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig11-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:15:43
-(epstopdf)                    size: 4103 bytes.
+(epstopdf)                    date: 2019-01-31 09:51:57
+(epstopdf)                    size: 4108 bytes.
 
-<main-gnuplottex-fig11-eps-converted-to.pdf, id=344, 250.9375pt x 185.69376pt>
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig11-eps-converted-t
+o.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+
+<main-gnuplottex-fig11-eps-converted-to.pdf, id=328, 250.9375pt x 185.69376pt>
 File: main-gnuplottex-fig11-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig11-eps-converted-to.pdf>
 Package pdftex.def Info: main-gnuplottex-fig11-eps-converted-to.pdf used on inp
 ut line 116.
 (pdftex.def)             Requested size: 250.93687pt x 185.6933pt.
-) [7 <./main-gnuplottex-fig5-eps-converted-to.pdf> <./main-gnuplottex-fig6-eps-
-converted-to.pdf> <./main-gnuplottex-fig7-eps-converted-to.pdf> <./main-gnuplot
-tex-fig8-eps-converted-to.pdf> <./main-gnuplottex-fig9-eps-converted-to.pdf> <.
-/main-gnuplottex-fig10-eps-converted-to.pdf>]
+) [6 <./main-gnuplottex-fig4-eps-converted-to.pdf> <./DataDump/Images/RDF_Peaks
+.png>] [7 <./main-gnuplottex-fig5-eps-converted-to.pdf> <./main-gnuplottex-fig6
+-eps-converted-to.pdf> <./main-gnuplottex-fig7-eps-converted-to.pdf> <./main-gn
+uplottex-fig8-eps-converted-to.pdf> <./main-gnuplottex-fig9-eps-converted-to.pd
+f> <./main-gnuplottex-fig10-eps-converted-to.pdf>]
 \openout4 = `main-gnuplottex-fig12.gnuplot'.
 
  Opening gnuplot stream main-gnuplottex-fig12.gnuplot
@@ -1812,16 +1877,16 @@ runsystem(gnuplot main-gnuplottex-fig12.gnuplot 2>>main.gnuploterrors)...execut
 ed.
 
 Package gnuplottex Info: main-gnuplottex-fig12.gnuplot converted on input line 
-832.
+840.
 
 (./main-gnuplottex-fig12.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig12.eps>
-(epstopdf)                    date: 2018-08-28 17:15:43
-(epstopdf)                    size: 22466 bytes
+(epstopdf)                    date: 2019-01-31 09:51:58
+(epstopdf)                    size: 22468 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig12-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:12:32
-(epstopdf)                    size: 5075 bytes
+(epstopdf)                    date: 2019-01-31 09:51:18
+(epstopdf)                    size: 5070 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig12-eps-c
 onverted-to.pdf main-gnuplottex-fig12.eps>
 (epstopdf)             \includegraphics on input line 125.
@@ -1830,24 +1895,27 @@ uplottex-fig12.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig12-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:15:43
-(epstopdf)                    size: 5075 bytes.
+(epstopdf)                    date: 2019-01-31 09:51:58
+(epstopdf)                    size: 5070 bytes.
 
-<main-gnuplottex-fig12-eps-converted-to.pdf, id=398, 250.9375pt x 214.8025pt>
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig12-eps-converted-t
+o.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+<main-gnuplottex-fig12-eps-converted-to.pdf, id=394, 250.9375pt x 214.8025pt>
 File: main-gnuplottex-fig12-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig12-eps-converted-to.pdf>
 Package pdftex.def Info: main-gnuplottex-fig12-eps-converted-to.pdf used on inp
 ut line 125.
 (pdftex.def)             Requested size: 250.93687pt x 214.80197pt.
-) [8 <./main-gnuplottex-fig11-eps-converted-to.pdf> <./main-gnuplottex-fig12-ep
-s-converted-to.pdf>]
-Overfull \hbox (0.25043pt too wide) in paragraph at lines 859--860
+) [8 <./main-gnuplottex-fig11-eps-converted-to.pdf>]
+Overfull \hbox (0.25043pt too wide) in paragraph at lines 867--868
 []\OT1/cmr/m/n/10 S.E.R. ac-knowl-edges the sup-port of the Eu-ro-pean Com-
  []
 
 
-Overfull \hbox (14.57208pt too wide) in paragraph at lines 859--860
+Overfull \hbox (14.57208pt too wide) in paragraph at lines 867--868
 \OT1/cmtt/m/n/10 / / cordis . europa . eu / project / rcn / 109976 _ en . html$
 []\OT1/cmr/m/n/10 . J.P.E
  []
@@ -1856,7 +1924,7 @@ Overfull \hbox (14.57208pt too wide) in paragraph at lines 859--860
 Missing character: There is no â in font cmr8!
 Missing character: There is no € in font cmr8!
 Missing character: There is no   in font cmr8!
- [9]
+ [9 <./main-gnuplottex-fig12-eps-converted-to.pdf>]
 Missing character: There is no â in font cmr8!
 Missing character: There is no € in font cmr8!
 Missing character: There is no ” in font cmr8!
@@ -1879,64 +1947,65 @@ Missing character: There is no â in font cmr8!
 Missing character: There is no € in font cmr8!
 Missing character: There is no “ in font cmr8!
 )
-Overfull \hbox (4.49936pt too wide) in paragraph at lines 926--927
+Overfull \hbox (4.49936pt too wide) in paragraph at lines 934--935
 []\OT1/cmr/m/n/10 In MD sim-u-la-tions us-ing atomically-detailed force-fields,
 
  []
 
 
-Overfull \hbox (16.83382pt too wide) in paragraph at lines 959--960
+Overfull \hbox (16.83382pt too wide) in paragraph at lines 967--968
 \OT1/cmr/m/n/10 from its cen-tre of mass, as de-fined in the fol-low-ing equati
 on[[]]: 
  []
 
-<DataDump/Images/Axes.png, id=442, 134.5025pt x 159.59625pt>
+[11] <DataDump/Images/Axes.png, id=452, 134.5025pt x 159.59625pt>
 File: DataDump/Images/Axes.png Graphic file (type png)
 
 <use DataDump/Images/Axes.png>
-Package pdftex.def Info: DataDump/Images/Axes.png used on input line 995.
+Package pdftex.def Info: DataDump/Images/Axes.png used on input line 1003.
 (pdftex.def)             Requested size: 20.8765pt x 24.77124pt.
 
-<DataDump/Images/1_initial.png, id=443, 541.02126pt x 1095.09125pt>
+<DataDump/Images/1_initial.png, id=453, 541.02126pt x 1095.09125pt>
 File: DataDump/Images/1_initial.png Graphic file (type png)
 
 <use DataDump/Images/1_initial.png>
-Package pdftex.def Info: DataDump/Images/1_initial.png used on input line 997.
+Package pdftex.def Info: DataDump/Images/1_initial.png used on input line 1005.
+
 (pdftex.def)             Requested size: 78.29681pt x 158.47504pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-<DataDump/Images/2_equilibration.png, id=444, 541.02126pt x 1095.09125pt>
+<DataDump/Images/2_equilibration.png, id=454, 541.02126pt x 1095.09125pt>
 File: DataDump/Images/2_equilibration.png Graphic file (type png)
 
 <use DataDump/Images/2_equilibration.png>
 Package pdftex.def Info: DataDump/Images/2_equilibration.png used on input line
- 1003.
+ 1011.
 (pdftex.def)             Requested size: 78.29681pt x 158.47504pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-<DataDump/Images/3_Compression.png, id=445, 542.025pt x 1096.095pt>
+<DataDump/Images/3_Compression.png, id=455, 542.025pt x 1096.095pt>
 File: DataDump/Images/3_Compression.png Graphic file (type png)
 
 <use DataDump/Images/3_Compression.png>
 Package pdftex.def Info: DataDump/Images/3_Compression.png used on input line 1
-009.
+017.
 (pdftex.def)             Requested size: 78.29681pt x 158.31924pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-<DataDump/Images/4_shear.png, id=446, 534.99875pt x 1096.095pt>
+<DataDump/Images/4_shear.png, id=456, 534.99875pt x 1096.095pt>
 File: DataDump/Images/4_shear.png Graphic file (type png)
 
 <use DataDump/Images/4_shear.png>
-Package pdftex.def Info: DataDump/Images/4_shear.png used on input line 1018.
+Package pdftex.def Info: DataDump/Images/4_shear.png used on input line 1026.
 (pdftex.def)             Requested size: 77.25339pt x 158.26906pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -1950,16 +2019,16 @@ runsystem(gnuplot main-gnuplottex-fig13.gnuplot 2>>main.gnuploterrors)...execut
 ed.
 
 Package gnuplottex Info: main-gnuplottex-fig13.gnuplot converted on input line 
-1086.
+1094.
 
 (./main-gnuplottex-fig13.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig13.eps>
-(epstopdf)                    date: 2018-08-28 17:15:44
+(epstopdf)                    date: 2019-01-31 09:51:59
 (epstopdf)                    size: 107094 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig13-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:12:34
-(epstopdf)                    size: 113983 bytes
+(epstopdf)                    date: 2019-01-31 09:51:20
+(epstopdf)                    size: 113999 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig13-eps-c
 onverted-to.pdf main-gnuplottex-fig13.eps>
 (epstopdf)             \includegraphics on input line 118.
@@ -1968,10 +2037,15 @@ uplottex-fig13.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig13-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:15:45
-(epstopdf)                    size: 113983 bytes.
+(epstopdf)                    date: 2019-01-31 09:51:59
+(epstopdf)                    size: 113999 bytes.
 
-<main-gnuplottex-fig13-eps-converted-to.pdf, id=447, 250.9375pt x 185.69376pt>
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig13-eps-converted-t
+o.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+
+<main-gnuplottex-fig13-eps-converted-to.pdf, id=457, 250.9375pt x 185.69376pt>
 File: main-gnuplottex-fig13-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig13-eps-converted-to.pdf>
@@ -1987,16 +2061,16 @@ runsystem(gnuplot main-gnuplottex-fig14.gnuplot 2>>main.gnuploterrors)...execut
 ed.
 
 Package gnuplottex Info: main-gnuplottex-fig14.gnuplot converted on input line 
-1120.
+1128.
 
 (./main-gnuplottex-fig14.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig14.eps>
-(epstopdf)                    date: 2018-08-28 17:15:45
+(epstopdf)                    date: 2019-01-31 09:52:00
 (epstopdf)                    size: 105780 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig14-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:12:34
-(epstopdf)                    size: 109164 bytes
+(epstopdf)                    date: 2019-01-31 09:51:21
+(epstopdf)                    size: 109181 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig14-eps-c
 onverted-to.pdf main-gnuplottex-fig14.eps>
 (epstopdf)             \includegraphics on input line 117.
@@ -2005,10 +2079,15 @@ uplottex-fig14.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig14-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:15:46
-(epstopdf)                    size: 109164 bytes.
+(epstopdf)                    date: 2019-01-31 09:52:00
+(epstopdf)                    size: 109181 bytes.
 
-<main-gnuplottex-fig14-eps-converted-to.pdf, id=448, 250.9375pt x 185.69376pt>
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig14-eps-converted-t
+o.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+
+<main-gnuplottex-fig14-eps-converted-to.pdf, id=458, 250.9375pt x 185.69376pt>
 File: main-gnuplottex-fig14-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig14-eps-converted-to.pdf>
@@ -2016,32 +2095,27 @@ Package pdftex.def Info: main-gnuplottex-fig14-eps-converted-to.pdf used on inp
 ut line 117.
 (pdftex.def)             Requested size: 250.93687pt x 185.6933pt.
 )
-Overfull \hbox (27.77728pt too wide) in paragraph at lines 1126--1127
+Overfull \hbox (27.77728pt too wide) in paragraph at lines 1134--1135
 \OT1/cmr/m/n/10 squared dis-place-ment (MSD) for the in-di-vid-ual atoms $[]$
  []
 
-[11] [12 <./DataDump/Images/Axes.png> <./DataDump/Images/1_initial.png> <./Data
-Dump/Images/2_equilibration.png> <./DataDump/Images/3_Compression.png> <./DataD
-ump/Images/4_shear.png> <./main-gnuplottex-fig13-eps-converted-to.pdf> <./main-
-gnuplottex-fig14-eps-converted-to.pdf>]
 \openout4 = `main-gnuplottex-fig15.gnuplot'.
-
 
 Opening gnuplot stream main-gnuplottex-fig15.gnuplot
 runsystem(gnuplot main-gnuplottex-fig15.gnuplot 2>>main.gnuploterrors)...execut
 ed.
 
 Package gnuplottex Info: main-gnuplottex-fig15.gnuplot converted on input line 
-1171.
+1179.
 
 (./main-gnuplottex-fig15.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig15.eps>
-(epstopdf)                    date: 2018-08-28 17:15:47
+(epstopdf)                    date: 2019-01-31 09:52:00
 (epstopdf)                    size: 121187 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig15-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:12:36
-(epstopdf)                    size: 177033 bytes
+(epstopdf)                    date: 2019-01-31 09:51:22
+(epstopdf)                    size: 213755 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig15-eps-c
 onverted-to.pdf main-gnuplottex-fig15.eps>
 (epstopdf)             \includegraphics on input line 138.
@@ -2050,10 +2124,15 @@ uplottex-fig15.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig15-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:15:48
-(epstopdf)                    size: 177033 bytes.
+(epstopdf)                    date: 2019-01-31 09:52:01
+(epstopdf)                    size: 213755 bytes.
 
-<main-gnuplottex-fig15-eps-converted-to.pdf, id=478, 250.9375pt x 185.69376pt>
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig15-eps-converted-t
+o.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+
+<main-gnuplottex-fig15-eps-converted-to.pdf, id=462, 250.9375pt x 185.69376pt>
 File: main-gnuplottex-fig15-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig15-eps-converted-to.pdf>
@@ -2069,16 +2148,16 @@ runsystem(gnuplot main-gnuplottex-fig16.gnuplot 2>>main.gnuploterrors)...execut
 ed.
 
 Package gnuplottex Info: main-gnuplottex-fig16.gnuplot converted on input line 
-1197.
+1205.
 
 (./main-gnuplottex-fig16.tex
 Package epstopdf Info: Source file: <main-gnuplottex-fig16.eps>
-(epstopdf)                    date: 2018-08-28 17:15:48
+(epstopdf)                    date: 2019-01-31 09:52:01
 (epstopdf)                    size: 22963 bytes
 (epstopdf)             Output file: <main-gnuplottex-fig16-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:12:37
-(epstopdf)                    size: 5256 bytes
+(epstopdf)                    date: 2019-01-31 09:51:22
+(epstopdf)                    size: 5430 bytes
 (epstopdf)             Command: <epstopdf --outfile=main-gnuplottex-fig16-eps-c
 onverted-to.pdf main-gnuplottex-fig16.eps>
 (epstopdf)             \includegraphics on input line 106.
@@ -2087,10 +2166,15 @@ uplottex-fig16.eps)...executed.
 
 Package epstopdf Info: Result file: <main-gnuplottex-fig16-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-08-28 17:15:48
-(epstopdf)                    size: 5256 bytes.
+(epstopdf)                    date: 2019-01-31 09:52:02
+(epstopdf)                    size: 5430 bytes.
 
-<main-gnuplottex-fig16-eps-converted-to.pdf, id=481, 250.9375pt x 185.69376pt>
+
+pdfTeX warning: /usr/bin/pdflatex (file ./main-gnuplottex-fig16-eps-converted-t
+o.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+
+<main-gnuplottex-fig16-eps-converted-to.pdf, id=465, 250.9375pt x 185.69376pt>
 File: main-gnuplottex-fig16-eps-converted-to.pdf Graphic file (type pdf)
 
 <use main-gnuplottex-fig16-eps-converted-to.pdf>
@@ -2098,23 +2182,30 @@ Package pdftex.def Info: main-gnuplottex-fig16-eps-converted-to.pdf used on inp
 ut line 106.
 (pdftex.def)             Requested size: 250.93687pt x 185.6933pt.
 ) (./main.gnuploterrors)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1203.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1211.
 
-[13 <./main-gnuplottex-fig15-eps-converted-to.pdf> <./main-gnuplottex-fig16-eps
--converted-to.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1203.
+[12
+
+] [13 <./DataDump/Images/Axes.png> <./DataDump/Images/1_initial.png> <./DataDum
+p/Images/2_equilibration.png> <./DataDump/Images/3_Compression.png> <./DataDump
+/Images/4_shear.png> <./main-gnuplottex-fig13-eps-converted-to.pdf> <./main-gnu
+plottex-fig14-eps-converted-to.pdf>] [14
+
+ <./main-gnuplottex-fig15-eps-converted-to.pdf> <./main-gnuplottex-fig16-eps-co
+nverted-to.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1211.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1203.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1203.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1211.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1211.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: BDE73D8A9E4E4C341F23359D67BBF32D;1093.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1203.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1211.
  ) 
 Here is how much of TeX's memory you used:
- 40753 strings out of 494041
- 949562 string characters out of 6158495
- 1156222 words of memory out of 5000000
+ 40754 strings out of 494041
+ 949568 string characters out of 6158495
+ 1156741 words of memory out of 5000000
  43293 multiletter control sequences out of 15000+600000
  15353 words of font info for 55 fonts, out of 8000000 for 9000
  475 hyphenation exceptions out of 8191
@@ -2136,10 +2227,10 @@ fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf
 /amsfonts/cm/cmti7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti8.p
 fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texm
 f/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on main.pdf (13 pages, 3545407 bytes).
+Output written on main.pdf (14 pages, 3630174 bytes).
 PDF statistics:
- 591 PDF objects out of 1000 (max. 8388607)
- 517 compressed objects within 6 object streams
- 115 named destinations out of 1000 (max. 500000)
+ 593 PDF objects out of 1000 (max. 8388607)
+ 518 compressed objects within 6 object streams
+ 116 named destinations out of 1000 (max. 500000)
  272 words of extra memory for PDF output out of 10000 (max. 10000000)
 

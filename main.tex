@@ -551,7 +551,7 @@ The velocity profiles show deviations from planar Couette flow at the onset of s
 			plot  	[][-6:6]  'DataDump/Shear/C16/1.5GPa/10m_s/fluid_mdp_z_s.dump1' u ($2-35.7116):($4) w l  lt 1 axes x1y2,\ 								
 				              'DataDump/Shear/C16/1.5GPa/10m_s/vel_prof_x_s.dump1'  u (bin($2-35.7116,binwidth2)):($4*100) smooth unique lt 1 dashtype 4  lw 5,\	
                              		    'DataDump/Shear/C60/1.5GPa/10m_s/fluid_mdp_z_s.dump1' u ($2-34.3132):($4) w l  lt 3  axes x1y2,\ 								
-				              'DataDump/Shear/C60/1.5GPa/10m_s/vel_prof_x_s.dump1'  u (bin($2-34.3132,binwidth)):($4*100) smooth unique lt 3 dashtype 4  lw 5		
+				              'DataDump/Shear/C60/1.5GPa/10m_s/vel_prof_x_s.dump3'  u (bin($2-34.3132,binwidth)):($4*100) smooth unique lt 3 dashtype 4  lw 5		
 		\end{gnuplot}
 		\begin{gnuplot}[terminal=epslatex, terminaloptions={size \SERFigwidth cm, \SERFigheight cm color solid}]
 		set key top center
@@ -594,7 +594,7 @@ Figure \ref{fig:FL_FN} shows that shear stress increases linearly with increasin
 			set ylabel "$F_L \\, [\\SI{}{\\mega\\pascal}]$"
 			set ytics 0,20,120
 			set key noautotitle
-            p [000:1600][0:]	'DataDump/Shear/Compiled_p.plot8' i 0 u ($2*1000):($4/10) w p title "$\\SI{10}{\\meter\\per\\second}$" lt 1 lc 0 ps 2,\
+            p [400:1600][0:]	'DataDump/Shear/Compiled_p.plot8' i 0 u ($2*1000):($4/10) w p title "$\\SI{10}{\\meter\\per\\second}$" lt 1 lc 0 ps 2,\
                 'DataDump/Shear/Compiled_p.plot8' i 1 u ($2*1000):($4/10) w p title "$\\SI{20}{\\meter\\per\\second}$" lt 2 lc 0 ps 2,\
 	    		'DataDump/Shear/Compiled_p.plot8' i 1 u ($2*1000):($4/10) w l notitle  lt 1 lc 1 lw 2	,\
                 'DataDump/Shear/Compiled_p.plot8' i 2 u ($2*1000):($4/10) w p title "$\\SI{50}{\\meter\\per\\second}$" lt 3 lc 0 ps 2,\
@@ -785,7 +785,7 @@ The decrease in $\sigma$ with increasing shear rate in this study is due to a co
 	set format x  '$10^{%L}$' 
 	set key noautotitle
 	set log x
-	set yrange [320:390]
+	set yrange [310:390]
           set ytics 300,20,400 
 	p [:2e10][]	'DataDump/Shear/Compiled.plot8' i 0 u ($3/($12*1e-10)):($10) w p title "$\\SI{0.5}{\\giga\\pascal}$" lt 1 lc 0 ps 2,\
 			'DataDump/Shear/Compiled.plot8' i 1 u ($3/($12*1e-10)):($10) w p title  "$\\SI{1.0}{\\giga\\pascal}$" lt 2 lc 0 ps 2,\
